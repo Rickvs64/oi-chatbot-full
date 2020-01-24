@@ -1,0 +1,317 @@
+[
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "hello",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "hey",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "hi",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "like",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "love",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "good",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "great",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "glad",
+    "modification": 0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "greeting",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "greetings",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "yo",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "sweet",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "please",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "pls",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "plz",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "thank",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "thanks",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "tenk",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "tenks",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "sorry",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "sowwy",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "sry",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "sorz",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "forgive",
+    "modification": 0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "fuck",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "fucking",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "fucks",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "dick",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "cunt",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "ass",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "asshole",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "fock",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "focking",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "fuk",
+    "modification": -0.1
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "fukn",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "suck",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "sucks",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "twat",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "jerk",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "bitch",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "slut",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "hell",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "jew",
+    "modification": -0.5
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "cancer",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "mongoloid",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "retard",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "shit",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "shits",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "trash",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "noob",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "nub",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "newb",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "liberal",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "bimbo",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "idiot",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "stupid",
+    "modification": -0.2
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "moron",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "nigger",
+    "modification": -0.5
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "nigga",
+    "modification": -0.5
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "pedo",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "pedophile",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "weeb",
+    "modification": -0.3
+  },
+  {
+    "relevantEmotion": "Patience",
+    "relevantWord": "furry",
+    "modification": -0.3
+  }
+]
